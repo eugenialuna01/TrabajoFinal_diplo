@@ -60,20 +60,24 @@ Posee control total del sistema.
 - Gestión de resultados
 - Gestión de usuarios
 - Administración de standings
+## 🧠 Tecnologías utilizadas
 
-###🧠 Tecnologías utilizadas
-##🎨 Frontend
--React.js ⚛️
--Vite ⚡
--Tailwind CSS 🎨
--React Router DOM 🛣
--React Hook Form 📝
--SweetAlert2 🍬
--React Toastify 🔔
--Context API 📦
-##🖥 Backend
--Node.js 🟢
--Express.js 🚂
+### 🎨 Frontend
+- React.js ⚛️
+- Vite ⚡
+- Tailwind CSS 🎨
+- React Router DOM 🛣️
+- React Hook Form 📝
+- SweetAlert2 🍬
+- React Toastify 🔔
+- Context API 📦
+
+### 🖥️ Backend
+- Node.js 🟢
+- Express.js 🚂
+- MongoDB 🍃
+- Mongoose 🧩
+- JWT Authentication 🔑
 -MongoDB 🍃
 -Mongoose 🧩
 -JWT Authentication 🔑
